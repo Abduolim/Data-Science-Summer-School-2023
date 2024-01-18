@@ -1,4 +1,5 @@
 # Data-Science-Summer-School-2023
+![certificate](DS3_Certificate.png)
 * Introduction to R Programming
 * Introduction to Python Programming
 * Calculus for Data Science
